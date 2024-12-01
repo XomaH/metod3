@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
 
+
         checkingTheYea(2020);
         needingApdateOs(2015, 1);
         System.out.println(calcDeliveryDay(40));
